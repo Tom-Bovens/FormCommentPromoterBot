@@ -1,0 +1,31 @@
+{
+  "name": "resultcommentbot",
+  "version": "1.0.0",
+  "description": "A bot that promotes the result commenting feature.",
+  "main": "index.js",
+  "dependencies": {
+    "chipchat": "^0.2.1",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "eslint-plugin-node": "^11.1.0",
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tom-Bovens/FormCommentPromoterBot.git"
+  },
+  "keywords": [
+    "bot",
+    "chipchat"
+  ],
+  "author": "Tom Bovens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tom-Bovens/FormCommentPromoterBot/issues"
+  },
+  "homepage": "https://github.com/Tom-Bovens/FormCommentPromoterBot#readme"
+}
