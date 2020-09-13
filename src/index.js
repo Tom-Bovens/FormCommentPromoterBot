@@ -134,6 +134,11 @@ bot.on('message.create.bot.postback.agent', async (message, conversation) => {
                     contentType: 'image/png',
                     text: 'https://cht.onl/a/x7zEKfz3X/commentonform.gif',
                     delay: incrementor.increment(4)
+                },
+                {
+                    type: 'command',
+                    text: '/leave',
+                    delay: incrementor.increment(2)
                 }
             ])
         } catch (e){
