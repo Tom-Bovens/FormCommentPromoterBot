@@ -4,7 +4,7 @@
   "description": "A bot that promotes the result commenting feature.",
   "main": "index.js",
   "dependencies": {
-    "chipchat": "^0.2.1",
+    "chipchat": "^0.7.16",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
     "eslint-plugin-node": "^11.1.0",
